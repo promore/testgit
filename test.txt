@@ -3,3 +3,5 @@ edit by huzd at other branch
 hello by master
 add by huzd with eclipse 
 edit by huzd
+
+edit in hot_fix by huzd
